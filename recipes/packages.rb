@@ -6,3 +6,11 @@ end
 package 'tree' do
   action :install
 end
+
+package 'unzip' do
+  action :install
+end
+
+package 'monit' do
+  action :install
+end
